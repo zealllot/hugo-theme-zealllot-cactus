@@ -1,0 +1,21 @@
+<ul id="post-list">
+    {{ range where .Paginator.Pages "Params.hidden" "ne" "true" }}
+        {{ if hasPrefix .RelPermalink "/about" }}
+        {{ else if hasPrefix .RelPermalink "/images" }}
+        {{ else }}
+            <li>
+                <aside class="dates">{{ .Date.Format "Jan 2" }}</aside>
+                <a href='{{ .RelPermalink }}'>
+                    {{ .Title }}
+                    {{ if .Site.Params.enableSummary }}
+                        {{ if .Site.Params.useDescriptionReplaceSummary }}
+                            <h2>{{ .Description | plainify }}</h2>
+                        {{ else }}
+                            <h2>{{ .Summary | plainify | htmlUnescape }}</h2>
+                        {{ end }}
+                    {{ end }}
+                </a>
+            </li>
+        {{ end }}
+    {{ end }}
+</ul>

@@ -1,0 +1,17 @@
+name = "zealllot cactus"
+license = "MIT"
+licenselink = "https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/LICENSE.md"
+description = "A minimalistic and responsive theme for bloggers."
+homepage = "https://github.com/zealllot/hugo-theme-zealllot-cactus"
+tags = ["blog", "beautiful", "gitment", "rss", "syntax highlighting", "tags"]
+features = ["blog", "beautiful", "gitment", "rss", "syntax highlighting", "tags"]
+min_version = 0.20
+
+[author]
+  name = "zealllot"
+  homepage = "https://github.com/zealllot"
+
+[[original]]
+  name = "Cactus"
+  homepage = "https://themes.gohugo.io/cactus/"
+  repo = "https://github.com/digitalcraftsman/hugo-cactus-theme"
