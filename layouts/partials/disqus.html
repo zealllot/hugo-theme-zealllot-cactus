@@ -4,11 +4,11 @@
 <script>
     var gitment = new Gitment({
         id: decodeURI(window.location.pathname), // 可选。默认为 location.href
-        owner: 'zealllot',
-        repo: '',
+        owner: {{.Site.Params.owner}},
+        repo: {{.Site.Params.repo}},
         oauth: {
-            client_id: '',
-            client_secret: '',
+            client_id: {{.Site.Params.client_id}},
+            client_secret: {{.Site.Params.client_secret}},
         },
     })
     gitment.render('container')

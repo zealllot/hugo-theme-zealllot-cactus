@@ -103,7 +103,7 @@ Summary will show follow the post title title in home page.
 关于页面就是这么实现的。
 
 
-## Disqus 评论
+## Gitment 评论
 
 本主题提供两种评论系统，Disqus 和多说。使用 Disqus 评论需要在 [`config.toml`](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/exampleSite/config.toml) 中进行设置。
 

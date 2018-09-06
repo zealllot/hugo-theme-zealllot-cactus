@@ -18,9 +18,11 @@ hasCJKLanguage = false
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
-
+	enableGitment = true
+	owner= "zealllot"
+    repo= ""
+    client_id=""
+    client_secret=""
 
 	enableSummary = true
 	# Set the value to true if use description in post front matter replace content summary
