@@ -105,11 +105,11 @@ Summary will show follow the post title title in home page.
 
 ## Gitment 评论
 
-本主题提供两种评论系统，Disqus 和多说。使用 Disqus 评论需要在 [`config.toml`](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/exampleSite/config.toml) 中进行设置。
+本主题提供gitment评论系统。使用 Gitment 评论需要在 [`config.toml`](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/exampleSite/config.toml) 中进行设置。
 
-设置 `disqusShortname` 为你的 Disqus ID，并将 `enableDisqus` 设置为 `true` 即可开启 Disqus 评论。
+设置 `owner` 为你的 GitHub 用户名， `repo` 为你用来存储评论的GitHub仓库，`client_id`和`client_secret`为你在GitHub申请的客户端验证信息，具体参考[Gitment](https://github.com/imsun/gitment)。最后将 `enableGitment` 设置为 `true` 即可开启 Gitment 评论。
 
-将 `enableDisqus` 设置为 `false` 则不启用 Disqus 评论。
+将 `enableGitment` 设置为 `false` 则不启用 Gitment 评论。
 
 
 ## 社交链接
