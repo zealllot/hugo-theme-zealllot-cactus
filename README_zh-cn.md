@@ -137,4 +137,4 @@ $ hugo server
 
 ## License
 
-[MIT](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/LICENSE.md)
+[MIT](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/LICENSE)

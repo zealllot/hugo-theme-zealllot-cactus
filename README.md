@@ -1,6 +1,6 @@
 # Hugo Theme Zealllot Cactus
 
-[English Document](https://github.com/zealllot/hugo-theme-zealllot-cactus/README.md) | [中文文档](https://github.com/zealllot/hugo-theme-zealllot-cactus/README_zh-cn.md)
+[English Document](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/README.md) | [中文文档](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/README_zh-cn.md)
 
 Zealllot Cactus is a minimalistic theme for bloggers based on the theme named [Cactus](https://github.com/digitalcraftsman/hugo-cactus-theme).
 
@@ -40,14 +40,14 @@ Here's the link to online demo: [https://www.zealllot.com](https://www.zealllot.
 
 **home page**
 
-![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/images/home.png)
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/home.png)
 
 **tags page**
 
-![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/images/tags.png)
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/tags.png)
 **archive page**
 
-![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/images/archive.png)
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/archive.png)
 
 ## Installation
 
@@ -118,4 +118,4 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 
 ## License
 
-This theme is released under the MIT license. For more information read the [license](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/LICENSE.md).
+This theme is released under the MIT license. For more information read the [license](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/LICENSE).
