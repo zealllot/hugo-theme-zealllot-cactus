@@ -10,10 +10,10 @@ Zealllot Cactus 是在 [Cactus](https://github.com/digitalcraftsman/hugo-cactus-
 + **添加了标签页**
 + **添加了归档页**
 + **页面导航**
++ **关于页面**
 + **集成了 [Gitment](https://github.com/imsun/gitment) 评论系统**
 + **提供了 Google Analytics 和百度统计**
 + **文章目录**
-+ **文章内导航**
 + **Twitter Card**
 
 示例网站： [https://www.zealllot.com](https://www.zealllot.com)。
@@ -51,6 +51,14 @@ Zealllot Cactus 是在 [Cactus](https://github.com/digitalcraftsman/hugo-cactus-
 **归档页**
 
 ![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/archive.png)
+
+**页面导航**
+
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/navigation.png)
+
+**gitment留言页**
+
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/gitment.png)
 
 ## 安装
 
