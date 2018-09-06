@@ -14,6 +14,7 @@ Zealllot Cactus is a minimalistic theme for bloggers based on the theme named [C
 + **[Gitment](https://github.com/imsun/gitment) comment-system**
 + **Both Google Analytics and Baidu Analytics for site analytics.**
 + **Table of Content**
++ **Navigation**
 + **Twitter Card**
 
 Here's the link to online demo: [https://www.zealllot.com](https://www.zealllot.com).
@@ -45,9 +46,18 @@ Here's the link to online demo: [https://www.zealllot.com](https://www.zealllot.
 **tags page**
 
 ![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/tags.png)
+
 **archive page**
 
 ![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/archive.png)
+
+**navigation page**
+
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/navigation.png)
+
+**gitment page**
+
+![Screenshot](https://github.com/zealllot/hugo-theme-zealllot-cactus/blob/master/images/gitment.png)
 
 ## Installation
 

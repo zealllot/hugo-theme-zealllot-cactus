@@ -13,6 +13,7 @@ Zealllot Cactus 是在 [Cactus](https://github.com/digitalcraftsman/hugo-cactus-
 + **集成了 [Gitment](https://github.com/imsun/gitment) 评论系统**
 + **提供了 Google Analytics 和百度统计**
 + **文章目录**
++ **文章内导航**
 + **Twitter Card**
 
 示例网站： [https://www.zealllot.com](https://www.zealllot.com)。
